@@ -1,1 +1,1 @@
-# sc2017_predefinisani6
+# sc2018_predefinisani
