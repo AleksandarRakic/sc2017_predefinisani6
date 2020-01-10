@@ -1,1 +1,1 @@
-# sc2018_predefinisani
+# sc_predefinisani
